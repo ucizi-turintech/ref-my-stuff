@@ -1,0 +1,3 @@
+[submodule "keep-my-stuff"]
+	path = keep-my-stuff
+	url = git@github.com:ucizi-turintech/keep-my-stuff
